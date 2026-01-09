@@ -7,57 +7,108 @@
 
 ## 🌐Tech Stack
 
-![Python](https://img.shields.io/badge/python-1A1A1A?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-1A1A1A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=ffc61a)
-![GO](https://img.shields.io/badge/GO-1A1A1A?style=for-the-badge&logo=go&logoColor=00ADD8)
-![C](https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![SHELL](https://img.shields.io/badge/SHELL-1A1A1A?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
-![AXIOS](https://img.shields.io/badge/AXIOS-1A1A1A?style=for-the-badge&logo=axios&logoColor=5A29E4)
-![SWC](https://img.shields.io/badge/SWC-1A1A1A?style=for-the-badge&logo=swc&logoColor=F8C457)
-![VITE](https://img.shields.io/badge/VITE-1A1A1A?style=for-the-badge&logo=vite&logoColor=646CFF)
-![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-1A1A1A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-1A1A1A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![ANT DESIGN](https://img.shields.io/badge/ANT_DESIGN-1A1A1A?style=for-the-badge&logo=antdesign&logoColor=0170FE)
-![REACT](https://img.shields.io/badge/REACT-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REDUX](https://img.shields.io/badge/REDUX-1A1A1A?style=for-the-badge&logo=redux&logoColor=764ABC)
-![REACT ROUTER](https://img.shields.io/badge/REACT_ROUTER-1A1A1A?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
-![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NEXT.JS](https://img.shields.io/badge/NEXT.JS-1A1A1A?style=for-the-badge&logo=next.js&logoColor=7a0099)
-![MYSQL](https://img.shields.io/badge/MYSQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=8080ff)
-![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MONGODB](https://img.shields.io/badge/MONGODB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![REDIS](https://img.shields.io/badge/REDIS-1A1A1A?style=for-the-badge&logo=redis&logoColor=FF4438)
-![KAFKA](https://img.shields.io/badge/KAFKA-1A1A1A?style=for-the-badge&logo=apache-kafka&logoColor=00e5e6)
-![ELASTICSEARCH](https://img.shields.io/badge/ELASTICSEARCH-1A1A1A?style=for-the-badge&logo=elasticsearch&logoColor=005571)
-![ETCD](https://img.shields.io/badge/ETCD-1A1A1A?style=for-the-badge&logo=etcd&logoColor=419EDA)
-![CELERY](https://img.shields.io/badge/CELERY-1A1A1A?style=for-the-badge&logo=celery&logoColor=37814A)
-![CONSUL](https://img.shields.io/badge/CONSUL-1A1A1A?style=for-the-badge&logo=consul&logoColor=F24C53)
-![FLOWER](https://img.shields.io/badge/FLOWER-1A1A1A?style=for-the-badge&logo=linuxserver&logoColor=DA3B8A)
-![GIT](https://img.shields.io/badge/GIT-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032)
-![NGINX](https://img.shields.io/badge/NGINX-1A1A1A?style=for-the-badge&logo=nginx&logoColor=009639)
-![TOMCAT](https://img.shields.io/badge/TOMCAT-1A1A1A?style=for-the-badge&logo=apache-tomcat&logoColor=F8DC75)
-![CADDY](https://img.shields.io/badge/CADDY-1A1A1A?style=for-the-badge&logo=caddy&logoColor=1F88C0)
-![GUNICORN](https://img.shields.io/badge/GUNICORN-1A1A1A?style=for-the-badge&logo=gunicorn&logoColor=499848)
-![UWSGI](https://img.shields.io/badge/UWSGI-1A1A1A?style=for-the-badge&logo=linuxserver&logoColor=DA3B8A)
-![UVICORN](https://img.shields.io/badge/UVICORN-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![GIN](https://img.shields.io/badge/GIN-1A1A1A?style=for-the-badge&logo=gin&logoColor=33f8ff)
-![GORM](https://img.shields.io/badge/GORM-1A1A1A?style=for-the-badge&logo=go&logoColor=00ADD8)
-![ZAP](https://img.shields.io/badge/ZAP-1A1A1A?style=for-the-badge&logo=zap&logoColor=00549E)
-![PyQt](https://img.shields.io/badge/PYQT-1A1A1A?style=for-the-badge&logo=qt&logoColor=41CD52)
-![SCRAPY](https://img.shields.io/badge/SCRAPY-1A1A1A?style=for-the-badge&logo=scrapy&logoColor=60A839)
-![SELENIUM](https://img.shields.io/badge/SELENIUM-1A1A1A?style=for-the-badge&logo=selenium&logoColor=43B02A)
-![DJANGO](https://img.shields.io/badge/DJANGO-1A1A1A?style=for-the-badge&logo=django&logoColor=ff884d)
-![FLASK](https://img.shields.io/badge/FLASK-1A1A1A?style=for-the-badge&logo=flask&logoColor=ff884d)
-![FASTAPI](https://img.shields.io/badge/FASTAPI-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-1A1A1A?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
-![DOCKER](https://img.shields.io/badge/DOCKER-1A1A1A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![ANSIBLE](https://img.shields.io/badge/ANSIBLE-1A1A1A?style=for-the-badge&logo=ansible&logoColor=EE0000)
-![GRAFANA](https://img.shields.io/badge/GRAFANA-1A1A1A?style=for-the-badge&logo=grafana&logoColor=F46800)
-![KIBANA](https://img.shields.io/badge/KIBANA-1A1A1A?style=for-the-badge&logo=kibana&logoColor=005571)
-![LOGSTASH](https://img.shields.io/badge/LOGSTASH-1A1A1A?style=for-the-badge&logo=logstash&logoColor=005571)
-![PROMETHEUS](https://img.shields.io/badge/PROMETHEUS-1A1A1A?style=for-the-badge&logo=prometheus&logoColor=E6522C)
-![KUBERNETES](https://img.shields.io/badge/KUBERNETES-1A1A1A?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![GRPC](https://img.shields.io/badge/GRPC-1A1A1A?style=for-the-badge&logo=trpc&logoColor=2596BE)
+### 🧠 Languages
 
+![Python](https://badgen.net/badge/Python/Expert/3776AB)
+![JavaScript](https://badgen.net/badge/JavaScript/Advanced/F7DF1E)
+![TypeScript](https://badgen.net/badge/TypeScript/Advanced/3178C6)
+![Java](https://badgen.net/badge/Java/Advanced/ED8B00)
+![Go](https://badgen.net/badge/Go/Advanced/00ADD8)
+![C](https://badgen.net/badge/C/Advanced/A8B9CC)
+![Shell](https://badgen.net/badge/Shell/Advanced/4EAA25)
+
+---
+
+### ⚙️ HTTP / Frontend Tooling
+
+![Axios](https://badgen.net/badge/Axios/HTTP/5A29E4)
+![SWC](https://badgen.net/badge/SWC/Compiler/F8C457)
+![Vite](https://badgen.net/badge/Vite/Fast/646CFF)
+![TailwindCSS](https://badgen.net/badge/TailwindCSS/UI/06B6D4)
+![Ant Design](https://badgen.net/badge/AntDesign/UI/0170FE)
+![Shadcn/UI](https://badgen.net/badge/Shadcn%2FUI/UI/111111)
+
+---
+
+### ⚛ Frontend
+
+![React](https://badgen.net/badge/React/Advanced/61DAFB)
+![Redux](https://badgen.net/badge/Redux/State/764ABC)
+![React Router](https://badgen.net/badge/React%20Router/Routing/CA4245)
+![React Native](https://badgen.net/badge/React%20Native/Mobile/61DAFB)
+![Next.js](https://badgen.net/badge/Next.js/SSR/000000)
+
+---
+
+### 🧩 Backend & Frameworks
+
+![Django](https://badgen.net/badge/Django/Advanced/092E20)
+![Django-REST](https://badgen.net/badge/Django-REST/API/FF884D)
+![Flask](https://badgen.net/badge/Flask/Micro/000000)
+![FastAPI](https://badgen.net/badge/FastAPI/Modern/009688)
+![Gin](https://badgen.net/badge/Gin/Go/00ADD8)
+![GORM](https://badgen.net/badge/GORM/ORM/00ADD8)
+![SpringBoot](https://badgen.net/badge/SpringBoot/Java/6DB33F)
+![Tomcat](https://badgen.net/badge/Tomcat/Servlet/F8DC75)
+![Gunicorn](https://badgen.net/badge/Gunicorn/WSGI/499848)
+![uWSGI](https://badgen.net/badge/uWSGI/Werkzeug/DA3B8A)
+![Uvicorn](https://badgen.net/badge/Uvicorn/ASGI/009688)
+
+---
+
+### 🗄 Databases & Cache
+
+![MySQL](https://badgen.net/badge/MySQL/Primary/00758F)
+![PostgreSQL](https://badgen.net/badge/PostgreSQL/Primary/4169E1)
+![MongoDB](https://badgen.net/badge/MongoDB/NoSQL/47A248)
+![Redis](https://badgen.net/badge/Redis/Cache/DC382D)
+![etcd](https://badgen.net/badge/etcd/KeyValue/419EDA)
+
+---
+
+### 📨 Messaging / Streaming / Task Queue
+
+![Kafka](https://badgen.net/badge/Kafka/Streaming/00e5e6)
+![Celery](https://badgen.net/badge/Celery/TaskQueue/37814A)
+![Flower](https://badgen.net/badge/Flower/Monitor/DA3B8A)
+![Consul](https://badgen.net/badge/Consul/Service/ F24C53)
+
+---
+
+### 🔎 Search / Logging / Observability
+
+![Elasticsearch](https://badgen.net/badge/Elasticsearch/Search/005571)
+![Logstash](https://badgen.net/badge/Logstash/ETL/005571)
+![Kibana](https://badgen.net/badge/Kibana/Explore/005571)
+![Grafana](https://badgen.net/badge/Grafana/Metrics/F46800)
+![Prometheus](https://badgen.net/badge/Prometheus/Monitoring/E6522C)
+
+---
+
+### ☁️ Infrastructure & DevOps
+
+![Docker](https://badgen.net/badge/Docker/Containers/2496ED)
+![Kubernetes](https://badgen.net/badge/Kubernetes/Orchestration/326CE5)
+![Nginx](https://badgen.net/badge/Nginx/Web/009639)
+![Caddy](https://badgen.net/badge/Caddy/AutoTLS/1F88C0)
+![Ansible](https://badgen.net/badge/Ansible/Automation/EE0000)
+![Git](https://badgen.net/badge/Git/VCS/F05032)
+
+---
+
+### 🧪 QA / Crawling / Automation
+
+![Scrapy](https://badgen.net/badge/Scrapy/Crawler/60A839)
+![Selenium](https://badgen.net/badge/Selenium/Browser/43B02A)
+![ZAP](https://badgen.net/badge/ZAP/Security/00549E)
+![PyQt](https://badgen.net/badge/PyQt/GUI/41CD52)
+
+---
+
+### 🤖 AI Stack
+
+![LangChain](https://badgen.net/badge/LangChain/LLM/6DB33F)
+![LangGraph](https://badgen.net/badge/LangGraph/Agent/6DB33F)
+![Dify](https://badgen.net/badge/Dify/AI/6DB33F)
+
+---
