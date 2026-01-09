@@ -7,6 +7,17 @@
 
 ## 🌐Tech Stack
 
+### 🤖 AI Stack
+
+![LangChain](https://badgen.net/badge/LangChain/LLM/6DB33F)
+![LangGraph](https://badgen.net/badge/LangGraph/Agent/6DB33F)
+![Dify](https://badgen.net/badge/Dify/AI/6DB33F)
+![ComfyUI](https://badgen.net/badge/ComfyUI/GenAI/9B59B6)
+![Whisper](https://badgen.net/badge/Whisper/ASR/5E2B97)
+![GPT-SoVITS](https://badgen.net/badge/GPT-SoVITS/TTS/9B59B6)
+
+---
+
 ### 🧠 Languages
 
 ![Python](https://badgen.net/badge/Python/Expert/3776AB)
@@ -105,10 +116,11 @@
 
 ---
 
-### 🤖 AI Stack
+### 📊 Data & Media
 
-![LangChain](https://badgen.net/badge/LangChain/LLM/6DB33F)
-![LangGraph](https://badgen.net/badge/LangGraph/Agent/6DB33F)
-![Dify](https://badgen.net/badge/Dify/AI/6DB33F)
+![Pandas](https://badgen.net/badge/Pandas/Data/150458)
+![OpenCV](https://badgen.net/badge/OpenCV/Vision/5C3EE8)
+![FFmpeg](https://badgen.net/badge/FFmpeg/Media/007808)
+![MoviePy](https://badgen.net/badge/MoviePy/Video/FF5733)
 
 ---
