@@ -33,7 +33,6 @@
 ### ⚙️ HTTP / Frontend Tooling
 
 ![Axios](https://badgen.net/badge/Axios/HTTP/5A29E4)
-![SWC](https://badgen.net/badge/SWC/Compiler/F8C457)
 ![Vite](https://badgen.net/badge/Vite/Fast/646CFF)
 ![TailwindCSS](https://badgen.net/badge/TailwindCSS/UI/06B6D4)
 ![Ant Design](https://badgen.net/badge/AntDesign/UI/0170FE)
