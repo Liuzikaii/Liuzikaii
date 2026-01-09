@@ -71,7 +71,7 @@
 ![Kafka](https://badgen.net/badge/Kafka/Streaming/00e5e6)
 ![Celery](https://badgen.net/badge/Celery/TaskQueue/37814A)
 ![Flower](https://badgen.net/badge/Flower/Monitor/DA3B8A)
-![Consul](https://badgen.net/badge/Consul/Service/ F24C53)
+![Consul](https://badgen.net/badge/Consul/Service/F24C53)
 
 ---
 
