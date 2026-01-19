@@ -9,12 +9,14 @@
 
 ### 🤖 AI Stack
 
+
 ![LangChain](https://badgen.net/badge/LangChain/LLM/6DB33F)
 ![LangGraph](https://badgen.net/badge/LangGraph/Agent/6DB33F)
 ![Dify](https://badgen.net/badge/Dify/AI/6DB33F)
 ![ComfyUI](https://badgen.net/badge/ComfyUI/GenAI/9B59B6)
 ![Whisper](https://badgen.net/badge/Whisper/ASR/5E2B97)
 ![GPT-SoVITS](https://badgen.net/badge/GPT-SoVITS/TTS/9B59B6)
+![PaddleOCR](https://badgen.net/badge/PaddleOCR/OCR/2E6BE6)
 
 ---
 
@@ -30,10 +32,15 @@
 
 ---
 
-### ⚙️ HTTP / Frontend Tooling
+### ⚙️ HTTP / Build Tooling
 
 ![Axios](https://badgen.net/badge/Axios/HTTP/5A29E4)
 ![Vite](https://badgen.net/badge/Vite/Fast/646CFF)
+
+---
+
+### 🎨 UI / Design System
+
 ![TailwindCSS](https://badgen.net/badge/TailwindCSS/UI/06B6D4)
 ![Ant Design](https://badgen.net/badge/AntDesign/UI/0170FE)
 ![Shadcn/UI](https://badgen.net/badge/Shadcn%2FUI/UI/111111)
