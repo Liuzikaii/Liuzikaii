@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liuzikai 💯
 - 👀 I’m interested in conding 🤓
-- 🌱 I’m currently learning Flutter 🚀
+- 🌱 I’m currently learning Agent 🚀
 - 🏙️ I'm based in Shenzhen,China 📍
 - 📫 How to reach me -- zikailiu787@gmail.com 👨‍🚀
 - 😄 Pronouns: KK
@@ -9,7 +9,7 @@
 
 ### 🤖 AI Stack
 
-
+![RAG](https://badgen.net/badge/RAG/Architecture/6DB33F)
 ![LangChain](https://badgen.net/badge/LangChain/LLM/6DB33F)
 ![LangGraph](https://badgen.net/badge/LangGraph/Agent/6DB33F)
 ![Dify](https://badgen.net/badge/Dify/AI/6DB33F)
@@ -80,6 +80,8 @@
 ![MongoDB](https://badgen.net/badge/MongoDB/NoSQL/47A248)
 ![Redis](https://badgen.net/badge/Redis/Cache/DC382D)
 ![etcd](https://badgen.net/badge/etcd/KeyValue/419EDA)
+![Milvus](https://badgen.net/badge/Milvus/VectorDB/0B95D5)
+![FAISS](https://badgen.net/badge/FAISS/VectorSearch/3498DB)
 
 ---
 
@@ -128,5 +130,3 @@
 ![OpenCV](https://badgen.net/badge/OpenCV/Vision/5C3EE8)
 ![FFmpeg](https://badgen.net/badge/FFmpeg/Media/007808)
 ![MoviePy](https://badgen.net/badge/MoviePy/Video/FF5733)
-
----
