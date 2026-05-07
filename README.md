@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @Liuzikai 💯
-- 👀 I’m interested in conding 🤓
+- 👀 I’m interested in coding 🤓
 - 🌱 I’m currently learning Agent 🚀
-- 🏙️ I'm based in Shenzhen,China 📍
+- 🏙️ I'm based in Shenzhen, China 📍
 - 📫 How to reach me -- zikailiu787@gmail.com 👨‍🚀
 - 😄 Pronouns: KK
 
-## 🌐Tech Stack
+## 🌐 Full-Stack Capability
+I have the ability to develop **Web + Mobile + Desktop Full-Stack Applications**.
 
-### 🤖 AI Stack
+---
 
+## 🤖 AI Stack
 
 ![LangChain](https://badgen.net/badge/LangChain/LLM/6DB33F)
 ![Dify](https://badgen.net/badge/Dify/AI/6DB33F)
@@ -19,7 +21,7 @@
 
 ---
 
-### 🧠 Languages
+## 🧠 Languages
 
 ![Python](https://badgen.net/badge/Python/Expert/3776AB)
 ![JavaScript](https://badgen.net/badge/JavaScript/Advanced/F7DF1E)
@@ -31,32 +33,33 @@
 
 ---
 
-### ⚙️ HTTP / Build Tooling
+## 🌐 Web Frontend
 
+![React](https://badgen.net/badge/React/Advanced/61DAFB)
+![Redux](https://badgen.net/badge/Redux/State/764ABC)
+![React Router](https://badgen.net/badge/React%20Router/Routing/CA4245)
+![Next.js](https://badgen.net/badge/Next.js/SSR/000000)
+
+### 🎨 UI / Design System
+![TailwindCSS](https://badgen.net/badge/TailwindCSS/UI/06B6D4)
+![Ant Design](https://badgen.net/badge/AntDesign/UI/0170FE)
+![Shadcn/UI](https://badgen.net/badge/Shadcn%2FUI/UI/111111)
+
+### ⚙️ HTTP / Build Tooling
 ![Axios](https://badgen.net/badge/Axios/HTTP/5A29E4)
 ![Vite](https://badgen.net/badge/Vite/Fast/646CFF)
 
 ---
 
-### 🎨 UI / Design System
+## 🖥️ Mobile & Desktop
 
-![TailwindCSS](https://badgen.net/badge/TailwindCSS/UI/06B6D4)
-![Ant Design](https://badgen.net/badge/AntDesign/UI/0170FE)
-![Shadcn/UI](https://badgen.net/badge/Shadcn%2FUI/UI/111111)
-
----
-
-### ⚛ Frontend
-
-![React](https://badgen.net/badge/React/Advanced/61DAFB)
-![Redux](https://badgen.net/badge/Redux/State/764ABC)
-![React Router](https://badgen.net/badge/React%20Router/Routing/CA4245)
+![Flutter](https://badgen.net/badge/Flutter/Mobile%20%2B%20Desktop/02569B)
 ![React Native](https://badgen.net/badge/React%20Native/Mobile/61DAFB)
-![Next.js](https://badgen.net/badge/Next.js/SSR/000000)
+![Electron](https://badgen.net/badge/Electron/Desktop/47848F)
 
 ---
 
-### 🧩 Backend & Frameworks
+## 🧩 Backend & Frameworks
 
 ![Django](https://badgen.net/badge/Django/Advanced/092E20)
 ![Django-REST](https://badgen.net/badge/Django-REST/API/FF884D)
@@ -72,7 +75,7 @@
 
 ---
 
-### 🗄 Databases & Cache
+## 🗄 Databases & Cache
 
 ![MySQL](https://badgen.net/badge/MySQL/Primary/00758F)
 ![PostgreSQL](https://badgen.net/badge/PostgreSQL/Primary/4169E1)
@@ -82,7 +85,7 @@
 
 ---
 
-### 📨 Messaging / Streaming / Task Queue
+## 📨 Messaging / Streaming / Task Queue
 
 ![Kafka](https://badgen.net/badge/Kafka/Streaming/00e5e6)
 ![Celery](https://badgen.net/badge/Celery/TaskQueue/37814A)
@@ -91,7 +94,7 @@
 
 ---
 
-### 🔎 Search / Logging / Observability
+## 🔎 Search / Logging / Observability
 
 ![Elasticsearch](https://badgen.net/badge/Elasticsearch/Search/005571)
 ![Logstash](https://badgen.net/badge/Logstash/ETL/005571)
@@ -101,7 +104,7 @@
 
 ---
 
-### ☁️ Infrastructure & DevOps
+## ☁️ Infrastructure & DevOps
 
 ![Docker](https://badgen.net/badge/Docker/Containers/2496ED)
 ![Kubernetes](https://badgen.net/badge/Kubernetes/Orchestration/326CE5)
@@ -112,7 +115,7 @@
 
 ---
 
-### 🧪 QA / Crawling / Automation
+## 🧪 QA / Crawling / Automation
 
 ![Scrapy](https://badgen.net/badge/Scrapy/Crawler/60A839)
 ![Selenium](https://badgen.net/badge/Selenium/Browser/43B02A)
@@ -121,11 +124,9 @@
 
 ---
 
-### 📊 Data & Media
+## 📊 Data & Media
 
 ![Pandas](https://badgen.net/badge/Pandas/Data/150458)
 ![OpenCV](https://badgen.net/badge/OpenCV/Vision/5C3EE8)
 ![FFmpeg](https://badgen.net/badge/FFmpeg/Media/007808)
 ![MoviePy](https://badgen.net/badge/MoviePy/Video/FF5733)
-
----
