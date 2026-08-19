@@ -259,7 +259,7 @@ Create systems that remain maintainable, scalable, and evolvable.
 ## 📫 Connect With Me
 
 - 📧 Email: [zikailiu787@gmail.com](mailto:zikailiu787@gmail.com)
-- 🧑‍💻 GitHub: [@Liuzikai](https://github.com/Liuzikai)
+- 🧑‍💻 GitHub: [@Liuzikai](https://github.com/Liuzikaii)
 - 📍 Location: Shenzhen, China
 - 😄 You can call me KK
 
